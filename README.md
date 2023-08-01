@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xShipi
-- 👀 I’m interested full stack and machine learning,
-- 🌱 I’m currently learning React,
-- 💞️ I’m looking to collaborate on interesting ideas,
+- 👋 Hi, I’m @sh1pd
+- 🚢 Sailing the dev seas...
+- 👀 Looking for stops in full stack and machine learning,
+- 🌱 The current stop is learning Next.js, and Spring (Boot),
 - 📫 How to reach me: sipos.aron.david@edu.bme.hu
 
 <!---
