@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sh1pd
+- 👋 Hi, I’m David,
 - 🚢 Sailing the dev seas...
 - 👀 Looking for stops in full stack and machine learning,
 - 🌱 The current stop is learning Next.js, and Spring (Boot),
