@@ -1,8 +1,8 @@
 - 👋 Hi, I’m David,
 - 🚢 Sailing the dev seas...
-- 👀 Looking for stops in full stack and machine learning,
-- 🌱 The current stop is learning Next.js, and Spring (Boot),
-- 📫 How to reach me: sipos.aron.david@edu.bme.hu
+- 👀 Looking for stops in ui/ux experiences,
+- 🌱 The current stop is React (Next.js, React Roouter), and Spring (Boot), Ktor wiht Kotlin,
+- 📫 How to reach me: sipisipos@gmail.com
 
 <!---
 xShipi/xShipi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
